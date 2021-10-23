@@ -1,4 +1,4 @@
-const images = ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"];
+const images = ["_image1.jpg", "_image2.jpg", "_image3.jpg", "_image4.jpg"];
 const viewer = document.querySelector("img.imageViewer");
 const thumbs = document.querySelectorAll("img.thumbnails");
 const wrapper = document.querySelector("section.wrapper");
